@@ -5,3 +5,5 @@ var a = 10 == 10; // boolean
 var b = null; // null 
 var c; // undefined 
 let car = {make:"Honda", model:"Civic", year:2001}; //object
+
+console.log ( firstName + age)
